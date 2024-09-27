@@ -1,4 +1,4 @@
-# assignment-2
+// assignment-2
 #include<stdio.h>
 
 int main(void)
