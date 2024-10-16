@@ -44,7 +44,6 @@ switch(option)
         printf("Your balance is Rs.%d\n", balance);
         break;
     case 4:
-        exit();
         break;
     default:
         printf("Invalid Input\n");
